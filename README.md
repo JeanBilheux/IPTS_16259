@@ -4,7 +4,7 @@
 
 ## Instructions
 
-### Mac
+First you need to install anaconda (https://anaconda.org/)
 
 To run the notebook, clone the repository to your computer
 
