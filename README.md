@@ -2,12 +2,17 @@
 
 # Analsis of Water flow through samples
 
-# Instructions: #
+Check The full documentation
+https://github.com/JeanBilheux/IPTS_16259/wiki
 
-## Mac ##
+## Instructions
+
+First you need to install anaconda (https://anaconda.org/)
+
 To run the notebook, clone the repository to your computer
 
 > git clone https://github.com/JeanBilheux/IPTS_16259.git
+
 > cd IPTS_16259
 
 start the jupyter notebook
