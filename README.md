@@ -2,6 +2,9 @@
 
 # Analsis of Water flow through samples
 
+Check The full documentation
+https://github.com/JeanBilheux/IPTS_16259/wiki
+
 ## Instructions
 
 First you need to install anaconda (https://anaconda.org/)
