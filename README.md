@@ -5,7 +5,7 @@
 Check The full documentation
 https://github.com/JeanBilheux/IPTS_16259/wiki
 
-## Instructions
+## Instructions (for local installation)
 
 First you need to install anaconda (https://anaconda.org/)
 
